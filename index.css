@@ -3,7 +3,7 @@
     background-color: hsl(212, 45%, 89%);
   }
 
-  .main {
+  main {
     display: flex;          
     flex-direction: column;  
     justify-content: center; 
@@ -38,14 +38,13 @@
     border-radius: 0.5rem;
   }
 
-  #p1 {
+  h4 {
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     background: hsl(0, 0%, 100%);
-
   }
 
-  #p2 {
+  p {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     background: hsl(0, 0%, 100%);
